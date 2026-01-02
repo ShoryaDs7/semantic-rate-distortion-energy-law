@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "The Semantic Rate–Distortion Energy Law"
+authors:
+  - family-names: Shaurya
+    given-names: Dev
+    name-particle: ""
+year: 2026
+version: "1.0"
+doi: ""
+url: "https://github.com/ShoryaDs7/semantic-rate-distortion-energy-law"
+abstract: >
+  The Semantic Rate–Distortion Energy Law establishes a fundamental thermodynamic
+  lower bound on the energy cost of preserving semantic meaning over time.
+license: CC-BY-4.0
